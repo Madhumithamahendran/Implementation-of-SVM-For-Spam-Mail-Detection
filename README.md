@@ -14,13 +14,10 @@ To write a program to implement the SVM For Spam Mail Detection.
 4. 
 
 ## Program:
-```
-/*
-Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:  
-*/
-```
+
+Developed by: MADHUMITHA M
+RegisterNumber:  212222220020
+
 
 ## Output:
 ![SVM For Spam Mail Detection](sam.png)
